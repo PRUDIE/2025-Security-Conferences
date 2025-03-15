@@ -12,7 +12,7 @@ I'm excited to have you contribute to this project! Whether you're adding new co
 
 Example Format for Adding Conferences
 - **Conference Name**: [Official Website](#)
-  - **Date**: Month DD–DD, YYYY
+  - **Date**: Month DD, YYYY
   - **Location**: City, Country or Virtual
  
 
