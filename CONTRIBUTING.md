@@ -1,6 +1,7 @@
 I'm excited to have you contribute to this project! Whether you're adding new conferences or improving the structure, your input is valued. Please read the following guidelines before making a pull request:
 
-##Guidelines for Contributions
+# Guidelines for Contributions
+
 1.Ensure the event name you wish to add does not already exist in the list.
 
 2.The event must be an cyber security event.
@@ -16,7 +17,7 @@ Example Format for Adding Conferences
  
 
 
-##How to Submit a Pull Request
+## How to Submit a Pull Request
 1.Fork the repository and clone it to your local environment.
 
 2.Create a new branch for your changes (e.g., add-conference-name).
